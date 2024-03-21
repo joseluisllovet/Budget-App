@@ -4,7 +4,7 @@
 ![586shots_so](https://github.com/joseluisllovet/Budget-App/assets/112377220/6b96b9c4-eb82-4d98-9da8-0cf439366546)
 
 
-This is a budgeting app that allows you to track your income and expenses. It is developed using HTML, CSS and pure JavaScript.
+This is a budgeting app that allows you to track your income and expenses. It is developed using HTML, CSS and vanilla JavaScript.
 
 ## 👆 Characteristics
 
