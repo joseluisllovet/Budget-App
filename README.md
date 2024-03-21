@@ -48,5 +48,5 @@ Suggestions and improvements are always welcome. Feel free to fork the repositor
 
 Reach out to me via LinkedIn or GitHub, accessible through the icons on my site, or raise an issue here.
 
-Thanks for dropping by, and I hope you find my portfolio insightful!
+Thanks for dropping by, and I hope you find my Budget App insightful!
 
